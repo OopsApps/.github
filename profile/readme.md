@@ -5,7 +5,7 @@
 **OopsApps** is a collection of web applications designed to make life easier (or at least more interesting).
 
 ## 🚀 Our Projects
-- **[OopsBudgeter](https://github.com/OopsApps/budgeter)** – A self-hosted budgeting app
+- **[OopsBudgeter](https://github.com/OopsApps/OopsBudgeter)** – A self-hosted budgeting app
 - More apps coming soon! 👀
 
 ## 🛠 Tech Stack
