@@ -1,7 +1,7 @@
 # 🔒 Security Policy
 
 ## 📢 Reporting a Vulnerability
-If you discover a security vulnerability, please email [oops+security@iconical.dev](mailto:oops+security@iconical.dev) instead of opening an issue.
+If you discover a security vulnerability, please email [security@oopsapps.tech](mailto:security@oopsapps.tech) instead of opening an issue.
 
 ## 🚨 Severity Levels
 - **Critical**: Data breaches, admin access exploits.

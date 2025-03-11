@@ -20,6 +20,6 @@ Because sometimes, the best solutions come from happy accidents... or calculated
 ## 📫 Get in Touch
 - **Twitter/X**: [@OopsAppsDev](https://x.com/OopsAppsDev)
 - **Discord**: [Join our server](https://iconical.dev/discord)
-- **Email**: oops@iconical.dev
+- **Email**: [contact@oopsapps.tech](mailto:contact@oopsapps.tech)
 
 👀 Stay tuned for updates and more "Oops"-worthy projects!
